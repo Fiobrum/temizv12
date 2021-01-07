@@ -1,0 +1,28 @@
+{
+  "name": "sifir",
+  "version": "0.0.1",
+  "description": "Sıfır v12 altyapı",
+  "main": "node index.js",
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "axios": "^0.21.1",
+    "chalk": "^4.1.0",
+    "cheerio": "^1.0.0-rc.5",
+    "discord.js": "^12.5.1",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "quick.db": "^7.1.3",
+    "random-puppy": "^1.1.0",
+    "reddit-package": "^1.0.0",
+    "reddit-simple": "^2.1.1",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6",
+    "wio.db": "^4.0.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Fiobrum",
+  "license": "MIT"
+}
